@@ -2,10 +2,8 @@ Author: Marion Veloria (contact via mvel605@aucklanduni.ac.nz)
 
 Date Started: 4/9/18
 
-Title:
+Title: Basketball Box Score
 
-Description:
+Description: A basketball box score if you don't know already is basically a table that contains a player's stats during the game.  I love watching basketball and always check the box score to see how certain players are performing.  So I decided to make my own version using Java (GUI).
 
-Requirements:
-
-Extra:
+Requirements: I suggest you download Eclipse or another IDE (Integrated Development Environment) that can run Java.
